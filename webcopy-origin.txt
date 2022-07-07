@@ -1,0 +1,492 @@
+Uri: https://222875.lp.tobiz.net/
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\index.htm
+Content Type: text/html
+
+Uri: https://222875.lp.tobiz.net/?personal_data=1
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\index-1.htm
+Content Type: text/html
+
+Uri: https://222875.lp.tobiz.net/?personal_data=2
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\index-2.htm
+Content Type: text/html
+
+Uri: https://222875.lp.tobiz.net/fonts/icomoon.eot?d438at
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\fonts\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://222875.lp.tobiz.net/fonts/icomoon.svg?d438at
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\fonts\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://222875.lp.tobiz.net/fonts/icomoon.ttf?d438at
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\fonts\icomoon.ttf
+Content Type: application/octet-stream
+
+Uri: https://222875.lp.tobiz.net/fonts/icomoon.woff?d438at
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\fonts\icomoon.woff
+Content Type: application/font-woff
+
+Uri: https://222875.lp.tobiz.net/img/1920x0/9e8921300d8f07c7b3bb9640a6b44e1d.jpg
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\img\1920x0\9e8921300d8f07c7b3bb9640a6b44e1d.jpg
+Content Type: image/jpeg
+
+Uri: https://222875.lp.tobiz.net/img/1920x0/e2fa7c1402abd4b8de171ec4468897fb.jpg
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\img\1920x0\e2fa7c1402abd4b8de171ec4468897fb.jpg
+Content Type: image/jpeg
+
+Uri: https://222875.lp.tobiz.net/img/1920x0/null.png
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\img\1920x0\null.png
+Content Type: image/png
+
+Uri: https://222875.lp.tobiz.net/img/200x0/24749a188d48f0b5c0c1441cdbefb051.png
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\img\200x0\24749a188d48f0b5c0c1441cdbefb051.png
+Content Type: image/png
+
+Uri: https://222875.lp.tobiz.net/img/200x0/f0231a9255951ded903774e9f38cfe7c.png
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\img\200x0\f0231a9255951ded903774e9f38cfe7c.png
+Content Type: image/png
+
+Uri: https://222875.lp.tobiz.net/img/300x230/c3ae45f296c39053d5a7dea55896f470.jpg
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\img\300x230\c3ae45f296c39053d5a7dea55896f470.jpg
+Content Type: image/jpeg
+
+Uri: https://222875.lp.tobiz.net/img/300x230/e7ecfc381d9ae7d71194cb0189e78237.jpg
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\img\300x230\e7ecfc381d9ae7d71194cb0189e78237.jpg
+Content Type: image/jpeg
+
+Uri: https://222875.lp.tobiz.net/img/300x230/fbbc8d5f0ed193c498a1f1672c05c92a.jpg
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\img\300x230\fbbc8d5f0ed193c498a1f1672c05c92a.jpg
+Content Type: image/jpeg
+
+Uri: https://222875.lp.tobiz.net/img/350x250/e0877957cafd82519600bc7252f316e2.jpg
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\img\350x250\e0877957cafd82519600bc7252f316e2.jpg
+Content Type: image/jpeg
+
+Uri: https://222875.lp.tobiz.net/img/350x250/e9825c34a4db99aa01ac737daf339d87.jpg
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\img\350x250\e9825c34a4db99aa01ac737daf339d87.jpg
+Content Type: image/jpeg
+
+Uri: https://222875.lp.tobiz.net/img/400x0/24749a188d48f0b5c0c1441cdbefb051.png
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\img\400x0\24749a188d48f0b5c0c1441cdbefb051.png
+Content Type: image/png
+
+Uri: https://222875.lp.tobiz.net/img/400x0/f0231a9255951ded903774e9f38cfe7c.png
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\img\400x0\f0231a9255951ded903774e9f38cfe7c.png
+Content Type: image/png
+
+Uri: https://222875.lp.tobiz.net/img/600x460/c3ae45f296c39053d5a7dea55896f470.jpg
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\img\600x460\c3ae45f296c39053d5a7dea55896f470.jpg
+Content Type: image/jpeg
+
+Uri: https://222875.lp.tobiz.net/img/600x460/e7ecfc381d9ae7d71194cb0189e78237.jpg
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\img\600x460\e7ecfc381d9ae7d71194cb0189e78237.jpg
+Content Type: image/jpeg
+
+Uri: https://222875.lp.tobiz.net/img/600x460/fbbc8d5f0ed193c498a1f1672c05c92a.jpg
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\img\600x460\fbbc8d5f0ed193c498a1f1672c05c92a.jpg
+Content Type: image/jpeg
+
+Uri: https://222875.lp.tobiz.net/img/700x500/e0877957cafd82519600bc7252f316e2.jpg
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\img\700x500\e0877957cafd82519600bc7252f316e2.jpg
+Content Type: image/jpeg
+
+Uri: https://222875.lp.tobiz.net/img/700x500/e9825c34a4db99aa01ac737daf339d87.jpg
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\img\700x500\e9825c34a4db99aa01ac737daf339d87.jpg
+Content Type: image/jpeg
+
+Uri: https://222875.lp.tobiz.net/img/btn_animation.png
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\img\btn_animation.png
+Content Type: image/png
+
+Uri: https://222875.lp.tobiz.net/img/btn_bg.png
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\img\btn_bg.png
+Content Type: image/png
+
+Uri: https://222875.lp.tobiz.net/img/editor_icons/cancel.svg
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\img\editor_icons\cancel.svg
+Content Type: image/svg+xml
+
+Uri: https://222875.lp.tobiz.net/img/editor_icons/menu_2.svg
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\img\editor_icons\menu_2.svg
+Content Type: image/svg+xml
+
+Uri: https://222875.lp.tobiz.net/img/no_photo.png
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\img\no_photo.png
+Content Type: image/png
+
+Uri: https://222875.lp.tobiz.net/img/null.png
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\img\null.png
+Content Type: image/png
+
+Uri: https://222875.lp.tobiz.net/js/lazyload.min.js
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\js\lazyload.min.js
+Content Type: application/javascript
+
+Uri: https://222875.lp.tobiz.net/js/mask.min.js
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\js\mask.min.js
+Content Type: application/javascript
+
+Uri: https://222875.lp.tobiz.net/js/swipe.js
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\js\swipe.js
+Content Type: application/javascript
+
+Uri: https://api-maps.yandex.ru/2.1/?load=package.standard&lang=ru-RU
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\2.1\json.txt
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\npm\animejs@3.2.1\lib\anime.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,700;1,300;1,700&family=Crushed&family=Lilita+One&family=Montserrat+Alternates:ital,wght@0,300;0,500;1,300;1,500&family=Nanum+Brush+Script&family=Neucha&family=Open+Sans+Condensed:ital,wght@0,300;0,500;0,600;0,700;1,300&family=Open+Sans:ital,wght@0,300;0,500;0,600;0,700;1,300;1,700&family=PT+Sans+Caption:wght@400;700&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Poiret+One&family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,700&family=Roboto:ital,wght@0,300;0,500;1,300;1,500&family=Ruslan+Display&family=Russo+One&family=Ubuntu+Condensed&family=Ubuntu:ital,wght@0,300;0,500;1,300;1,500&family=Andika&family=Audiowide&family=Bellota:ital,wght@0,300;0,700;1,300;1,700&family=Caveat:wght@400;600&family=Cormorant+SC:wght@300;500&family=Cormorant+Upright:wght@300;500&family=Lobster&family=Nunito:ital,wght@0,300;0,600;1,300;1,600&family=Oswald:wght@300;500&family=Pacifico&family=Play:wght@400;700&family=Prosto+One&family=Raleway:ital,wght@0,300;0,500;1,300;1,500&family=Reggae+One&family=Rubik+Mono+One&family=PT+Sans+Narrow:wght@400;700&family=Montserrat:ital,wght@0,300;0,500;1,300;1,500&family=Alegreya+Sans:ital,wght@0,300;0,500;1,300;1,500&family=Alegreya:ital,wght@0,400;0,500;1,400;1,500&display=swap
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/alegreya/v29/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNG9hUI_A.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\alegreya\v29\4UacrEBBsBhlBjvfkQjt71kZfyBzPgNG9hUI_A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/alegreya/v29/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGxBUI_A.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\alegreya\v29\4UacrEBBsBhlBjvfkQjt71kZfyBzPgNGxBUI_A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/alegreya/v29/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlbgv6qm.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\alegreya\v29\4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlbgv6qm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/alegreya/v29/4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlbSv6qm.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\alegreya\v29\4UaSrEBBsBhlBjvfkSLk3abBFkvpkARTPlbSv6qm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/alegreyasans/v21/5aUo9_-1phKLFgshYDvh6Vwt7V9VFE92jg.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\alegreyasans\v21\5aUo9_-1phKLFgshYDvh6Vwt7V9VFE92jg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/alegreyasans/v21/5aUo9_-1phKLFgshYDvh6Vwt7V9VTE52jg.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\alegreyasans\v21\5aUo9_-1phKLFgshYDvh6Vwt7V9VTE52jg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/alegreyasans/v21/5aUu9_-1phKLFgshYDvh6Vwt5alOmE0.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\alegreyasans\v21\5aUu9_-1phKLFgshYDvh6Vwt5alOmE0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/alegreyasans/v21/5aUu9_-1phKLFgshYDvh6Vwt5fFPmE0.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\alegreyasans\v21\5aUu9_-1phKLFgshYDvh6Vwt5fFPmE0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/andika/v22/mem_Ya6iyW-LwqgAbQ.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\andika\v22\mem_Ya6iyW-LwqgAbQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/audiowide/v16/l7gdbjpo0cum0ckerWCtkQ.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\audiowide\v16\l7gdbjpo0cum0ckerWCtkQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bellota/v16/MwQxbhXl3_qEpiwAKJBjDGYfjQ.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\bellota\v16\MwQxbhXl3_qEpiwAKJBjDGYfjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bellota/v16/MwQxbhXl3_qEpiwAKJBjHGEfjQ.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\bellota\v16\MwQxbhXl3_qEpiwAKJBjHGEfjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bellota/v16/MwQzbhXl3_qEpiwAIC5-kGM.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\bellota\v16\MwQzbhXl3_qEpiwAIC5-kGM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bellota/v16/MwQzbhXl3_qEpiwAID55kGM.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\bellota\v16\MwQzbhXl3_qEpiwAID55kGM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/caveat/v17/WnznHAc5bAfYB2QRah7pcpNvOx-pjfJ9SII.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\caveat\v17\WnznHAc5bAfYB2QRah7pcpNvOx-pjfJ9SII.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/caveat/v17/WnznHAc5bAfYB2QRah7pcpNvOx-pjSx6SII.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\caveat\v17\WnznHAc5bAfYB2QRah7pcpNvOx-pjSx6SII.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/comicneue/v8/4UaarEJDsxBrF37olUeD96_RTplUKw.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\comicneue\v8\4UaarEJDsxBrF37olUeD96_RTplUKw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/comicneue/v8/4UaarEJDsxBrF37olUeD96_RXp5UKw.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\comicneue\v8\4UaarEJDsxBrF37olUeD96_RXp5UKw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/comicneue/v8/4UaErEJDsxBrF37olUeD_wHLwps.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\comicneue\v8\4UaErEJDsxBrF37olUeD_wHLwps.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/comicneue/v8/4UaErEJDsxBrF37olUeD_xHMwps.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\comicneue\v8\4UaErEJDsxBrF37olUeD_xHMwps.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantsc/v16/0ybmGD4kxqXBmOVLG30OGwsmABIU_Q.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\cormorantsc\v16\0ybmGD4kxqXBmOVLG30OGwsmABIU_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantsc/v16/0ybmGD4kxqXBmOVLG30OGwsmWBMU_Q.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\cormorantsc\v16\0ybmGD4kxqXBmOVLG30OGwsmWBMU_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantupright/v18/VuJudM3I2Y35poFONtLdafkUCHw1y1MhpxDs.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\cormorantupright\v18\VuJudM3I2Y35poFONtLdafkUCHw1y1MhpxDs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantupright/v18/VuJudM3I2Y35poFONtLdafkUCHw1y1N5phDs.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\cormorantupright\v18\VuJudM3I2Y35poFONtLdafkUCHw1y1N5phDs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/crushed/v25/U9Mc6dym6WXImTlFT1k.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\crushed\v25\U9Mc6dym6WXImTlFT1k.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lilitaone/v13/i7dPIFZ9Zz-WBtRtedDbUEY.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\lilitaone\v13\i7dPIFZ9Zz-WBtRtedDbUEY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lobster/v28/neILzCirqoswsqX9_oU.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\lobster\v28\neILzCirqoswsqX9_oU.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9aX8.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\montserrat\v24\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9aX8.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\montserrat\v24\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserratalternates/v17/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xGIT1AA.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\montserratalternates\v17\mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xGIT1AA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserratalternates/v17/mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xQIX1AA.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\montserratalternates\v17\mFTiWacfw6zH4dthXcyms1lPpC8I_b0juU0xQIX1AA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserratalternates/v17/mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p8hA7xD.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\montserratalternates\v17\mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p8hA7xD.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserratalternates/v17/mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p95ArxD.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\montserratalternates\v17\mFTkWacfw6zH4dthXcyms1lPpC8I_b0juU057p95ArxD.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nanumbrushscript/v22/wXK2E2wfpokopxzthSqPbcR5_gVaxazyjg.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\nanumbrushscript\v22\wXK2E2wfpokopxzthSqPbcR5_gVaxazyjg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/neucha/v17/q5uGsou0JOdh94bvug.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\neucha\v17\q5uGsou0JOdh94bvug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v24/XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmRTM.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\nunito\v24\XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmRTM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v24/XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhRTM.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\nunito\v24\XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhRTM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v24/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNi83A3ig.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\nunito\v24\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNi83A3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v24/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNic3c3ig.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\nunito\v24\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNic3c3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v29/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkaVc.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\opensans\v29\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v29/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjaVc.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\opensans\v29\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\opensans\v29\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\opensans\v29\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\opensans\v29\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0C4n.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\opensans\v29\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensanscondensed/v23/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmPuI.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\opensanscondensed\v23\z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff0GmPuI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensanscondensed/v23/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff1GhPuI.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\opensanscondensed\v23\z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff1GhPuI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensanscondensed/v23/z7NHdQDnbTkabZAIOl9il_O6KJj73e7Fd_-7suDMQg.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\opensanscondensed\v23\z7NHdQDnbTkabZAIOl9il_O6KJj73e7Fd_-7suDMQg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v48/TK3_WkUHHAIjg75cFRf3bXL8LICs169vgUE.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\oswald\v48\TK3_WkUHHAIjg75cFRf3bXL8LICs169vgUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v48/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvgUE.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\oswald\v48\TK3_WkUHHAIjg75cFRf3bXL8LICs18NvgUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/pacifico/v22/FwZY7-Qmy14u9lezJ96A.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\pacifico\v22\FwZY7-Qmy14u9lezJ96A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/play/v17/6ae84K2oVqwItm4TOpc.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\play\v17\6ae84K2oVqwItm4TOpc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/play/v17/6aez4K2oVqwIjtI.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\play\v17\6aez4K2oVqwIjtI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poiretone/v14/UqyVK80NJXN4zfRgbdfbk5k.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\poiretone\v14\UqyVK80NJXN4zfRgbdfbk5k.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/prostoone/v17/OpNJno4VhNfK-RgpwWWxpio.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\prostoone\v17\OpNJno4VhNfK-RgpwWWxpio.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsans/v17/jizaRExUiTo99u79P0U.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\ptsans\v17\jizaRExUiTo99u79P0U.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsans/v17/jizdRExUiTo99u79D0e8fOytKA.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\ptsans\v17\jizdRExUiTo99u79D0e8fOytKA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsans/v17/jizfRExUiTo99u79B_mh4Ok.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\ptsans\v17\jizfRExUiTo99u79B_mh4Ok.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsans/v17/jizYRExUiTo99u79D0eEwA.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\ptsans\v17\jizYRExUiTo99u79D0eEwA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsanscaption/v18/0FlJVP6Hrxmt7-fsUFhlFXNIlpcSwSrUSw.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\ptsanscaption\v18\0FlJVP6Hrxmt7-fsUFhlFXNIlpcSwSrUSw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsanscaption/v18/0FlMVP6Hrxmt7-fsUFhlFXNIlpcqfQ.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\ptsanscaption\v18\0FlMVP6Hrxmt7-fsUFhlFXNIlpcqfQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsansnarrow/v17/BngRUXNadjH0qYEzV7ab-oWlsYCB.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\ptsansnarrow\v17\BngRUXNadjH0qYEzV7ab-oWlsYCB.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsansnarrow/v17/BngSUXNadjH0qYEzV7ab-oWlsbg95DiC.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\ptsansnarrow\v17\BngSUXNadjH0qYEzV7ab-oWlsbg95DiC.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v27/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEooCP.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\raleway\v27\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEooCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v27/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoooCP.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\raleway\v27\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoooCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v27/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4TbMPrQ.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\raleway\v27\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4TbMPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v27/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4VrMPrQ.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\raleway\v27\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4VrMPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/reggaeone/v14/~CgwKClJlZ2dhZSBPbmUgAA==.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\reggaeone\v14\~CgwKClJlZ2dhZSBPbmUgAA==.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ABc9.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjARc9.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjARc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9vAw.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\roboto\v30\KFOlCnqEu92Fr1MmEU9vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5vAw.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\roboto\v30\KFOlCnqEu92Fr1MmSU5vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v25/ieVg2ZhZI2eCN5jzbjEETS9weq8-19eDpCEYag.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\robotocondensed\v25\ieVg2ZhZI2eCN5jzbjEETS9weq8-19eDpCEYag.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v25/ieVg2ZhZI2eCN5jzbjEETS9weq8-19eDtCYYag.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\robotocondensed\v25\ieVg2ZhZI2eCN5jzbjEETS9weq8-19eDtCYYag.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v25/ieVi2ZhZI2eCN5jzbjEETS9weq8-32meKCM.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\robotocondensed\v25\ieVi2ZhZI2eCN5jzbjEETS9weq8-32meKCM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v25/ieVi2ZhZI2eCN5jzbjEETS9weq8-33mZKCM.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\robotocondensed\v25\ieVi2ZhZI2eCN5jzbjEETS9weq8-33mZKCM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v25/ieVl2ZhZI2eCN5jzbjEETS9weq8-59U.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\robotocondensed\v25\ieVl2ZhZI2eCN5jzbjEETS9weq8-59U.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubikmonoone/v14/UqyJK8kPP3hjw6ANTdfRk9YSN-8w.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\rubikmonoone\v14\UqyJK8kPP3hjw6ANTdfRk9YSN-8w.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ruslandisplay/v22/Gw6jwczl81XcIZuckK_e3Upfdzxr.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\ruslandisplay\v22\Gw6jwczl81XcIZuckK_e3Upfdzxr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/russoone/v14/Z9XUDmZRWg6M1LvRYsH-yA.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\russoone\v14\Z9XUDmZRWg6M1LvRYsH-yA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCp6KVjbNBYlgoKejYHtGyI.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\ubuntu\v20\4iCp6KVjbNBYlgoKejYHtGyI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCp6KVjbNBYlgoKejZftWyI.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\ubuntu\v20\4iCp6KVjbNBYlgoKejZftWyI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoC1CzTtw.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\ubuntu\v20\4iCv6KVjbNBYlgoC1CzTtw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCjC3Ttw.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\ubuntu\v20\4iCv6KVjbNBYlgoCjC3Ttw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntucondensed/v16/u-4k0rCzjgs5J7oXnJcM_0kACGMtf-c.ttf
+File Name: E:\web\Партфолио\222875.lp.tobiz.net\s\ubuntucondensed\v16\u-4k0rCzjgs5J7oXnJcM_0kACGMtf-c.ttf
+Content Type: font/ttf
+
